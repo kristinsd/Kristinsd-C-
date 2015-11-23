@@ -1,0 +1,6 @@
+D:\GitHub Course 2\Kristinsd-C-\Datatypes\Datatypes\bin\Debug\Datatypes.exe.config
+D:\GitHub Course 2\Kristinsd-C-\Datatypes\Datatypes\bin\Debug\Datatypes.exe
+D:\GitHub Course 2\Kristinsd-C-\Datatypes\Datatypes\bin\Debug\Datatypes.pdb
+D:\GitHub Course 2\Kristinsd-C-\Datatypes\Datatypes\obj\Debug\Datatypes.csprojResolveAssemblyReference.cache
+D:\GitHub Course 2\Kristinsd-C-\Datatypes\Datatypes\obj\Debug\Datatypes.exe
+D:\GitHub Course 2\Kristinsd-C-\Datatypes\Datatypes\obj\Debug\Datatypes.pdb
